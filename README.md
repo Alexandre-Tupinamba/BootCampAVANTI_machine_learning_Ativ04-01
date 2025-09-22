@@ -1,3 +1,9 @@
+
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEU_USUARIO/SEU_REPOSITORIO/blob/main/analise_clothing_dataset.ipynb)
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-orange)
+![License](https://img.shields.io/badge/License-Educacional-green)
+
 # 👗 Clothing Co-Parsing Dataset – Análise Completa
 
 Este repositório contém uma análise exploratória e aplicada do **[Clothing Co-Parsing Dataset](https://www.kaggle.com/datasets/balraj98/clothing-coparsing-dataset)**, hospedada em um **Notebook do Google Colab**.  
