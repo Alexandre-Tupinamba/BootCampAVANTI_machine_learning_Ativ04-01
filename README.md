@@ -31,9 +31,7 @@ Você pode executar a análise completa diretamente no **Google Colab** sem prec
   [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RaphaelCarvalh/clothing-segmentation-project/blob/main/notebooks/01_data_cleaning.ipynb)
 
 - **Training Pipeline**  
-  [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RaphaelCarvalh/clothing-segmentation-project/blob/main/notebooks/01_data_cleaning.ipynb)
-
-
+  [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RaphaelCarvalh/clothing-segmentation-project/blob/main/notebooks/02_training_pipeline.ipynb)
 
 ---
 
@@ -42,5 +40,13 @@ Você pode executar a análise completa diretamente no **Google Colab** sem prec
 1. Acesse o dataset no Kaggle: [Clothing Co-Parsing Dataset](https://www.kaggle.com/datasets/balraj98/clothing-coparsing-dataset)  
 2. Gere uma **API Token** no Kaggle (Conta > API > Criar novo token).  
 3. No Colab, adicione as keys quando for solicitado para esta sessão.  
-4. Execute os comandos a seguir no Notebook:  
-5. Finalize exportando todos os dados gerados para seu drive, liberando o acesso temporário.
+4. Execute os comandos no Notebook para baixar e organizar o dataset:  
+
+```python
+!pip install kaggle
+!mkdir -p ~/.kaggle
+!cp kaggle.json ~/.kaggle/
+!chmod 600 ~/.kaggle/kaggle.json
+
+!kaggle datasets download -d balraj98/clothing-coparsing-dataset
+!unzip clothing-coparsing-dataset.zip -d clothing-coparsing-dataset
