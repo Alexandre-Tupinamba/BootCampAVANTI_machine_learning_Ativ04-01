@@ -25,9 +25,15 @@ Ele é amplamente utilizado em pesquisas de **visão computacional**, incluindo:
 
 Você pode executar a análise completa diretamente no **Google Colab** sem precisar instalar nada localmente.  
 
-👉 Clique no botão abaixo para abrir:  
+### 👉 Clique no botão abaixo para abrir os Notebooks:
 
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RaphaelCarvalh/clothing-segmentation-project/blob/main/notebooks/01_data_cleaning.ipynb)
+- **Data Cleaning**  
+  [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RaphaelCarvalh/clothing-segmentation-project/blob/main/notebooks/01_data_cleaning.ipynb)
+
+- **Training Pipeline**  
+  [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RaphaelCarvalh/clothing-segmentation-project/blob/main/notebooks/01_data_cleaning.ipynb)
+
+
 
 ---
 
