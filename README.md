@@ -40,13 +40,14 @@ Você pode executar a análise completa diretamente no **Google Colab** sem prec
 1. Acesse o dataset no Kaggle: [Clothing Co-Parsing Dataset](https://www.kaggle.com/datasets/balraj98/clothing-coparsing-dataset)  
 2. Gere uma **API Token** no Kaggle (Conta > API > Criar novo token).  
 3. No Colab, adicione as keys quando for solicitado para esta sessão.  
-4. Execute os comandos no Notebook para baixar e organizar o dataset:  
 
-```python
-!pip install kaggle
-!mkdir -p ~/.kaggle
-!cp kaggle.json ~/.kaggle/
-!chmod 600 ~/.kaggle/kaggle.json
+### 🔑 Gerando e usando o GitHub Token (para salvar arquivos direto no repositório)
 
-!kaggle datasets download -d balraj98/clothing-coparsing-dataset
-!unzip clothing-coparsing-dataset.zip -d clothing-coparsing-dataset
+Para enviar arquivos gerados no Colab direto para o repositório GitHub:
+
+1. Acesse o GitHub e vá em **Settings → Developer settings → Personal access tokens → Tokens (classic) → Generate new token**.  
+2. Dê um nome ao token (ex: `colab-upload`) e escolha uma expiração (ex: 90 dias ou sem expiração).  
+3. Em **Select scopes**, marque **apenas**:  
+   - `public_repo` (permite criar e atualizar arquivos em repositórios públicos).  
+4. Clique em **Generate token** e copie o token gerado. ⚠️ Ele só aparece uma vez então salve-o!  
+5. No Colab, insira o token quando for solicitado de forma segura:
