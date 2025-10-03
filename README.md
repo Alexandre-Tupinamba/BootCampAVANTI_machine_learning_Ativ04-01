@@ -50,4 +50,4 @@ Para enviar arquivos gerados no Colab direto para o repositório GitHub:
 3. Em **Select scopes**, marque **apenas**:  
    - `public_repo` (permite criar e atualizar arquivos em repositórios públicos).  
 4. Clique em **Generate token** e copie o token gerado. ⚠️ Ele só aparece uma vez então salve-o!  
-5. No Colab, insira o token quando for solicitado de forma segura:
+5. No Colab, insira o token quando for solicitado de forma segura.
