@@ -27,7 +27,7 @@ Você pode executar a análise completa diretamente no **Google Colab** sem prec
 
 👉 Clique no botão abaixo para abrir:  
 
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RaphaelCarvalh/BootCampAVANTI_machine_learning_Ativ04-01/blob/main/Et01_analise_dataset_refatorado.ipynb)
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RaphaelCarvalh/clothing-segmentation-project/blob/main/notebooks/01_data_cleaning.ipynb)
 
 ---
 
