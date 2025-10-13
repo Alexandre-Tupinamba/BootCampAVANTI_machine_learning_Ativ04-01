@@ -28,10 +28,10 @@ Você pode executar a análise completa diretamente no **Google Colab** sem prec
 ### 👉 Clique no botão abaixo para abrir os Notebooks:
 
 - **Data Cleaning**  
-  [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RaphaelCarvalh/clothing-segmentation-project/blob/main/notebooks/01_data_cleaning.ipynb)
+  [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RaphaelCarvalh/clothing-segmentation-project/blob/main/notebooks/Et01_analise_dataset.ipynb)
 
 - **Training Pipeline**  
-  [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RaphaelCarvalh/clothing-segmentation-project/blob/main/notebooks/02_training_pipeline.ipynb)
+  [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RaphaelCarvalh/clothing-segmentation-project/blob/main/notebooks/Et02_training_pipeline.ipynb)
 
 ---
 
