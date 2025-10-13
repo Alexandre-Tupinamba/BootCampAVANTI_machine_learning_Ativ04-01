@@ -51,3 +51,18 @@ Para enviar arquivos gerados no Colab direto para o repositório GitHub:
    - `public_repo` (permite criar e atualizar arquivos em repositórios públicos).  
 4. Clique em **Generate token** e copie o token gerado. ⚠️ Ele só aparece uma vez então salve-o!  
 5. No Colab, insira o token quando for solicitado de forma segura.
+<div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 30px;">
+  <img src="https://lh3.googleusercontent.com/d/1d1oOk9bdctyQqWePtNIuOEQafpyKD3Cc" alt="Collection" style="width: 600px; height: 400px; object-fit: cover; border-radius: 8px;">
+  <img src="https://lh3.googleusercontent.com/d/1OHoQAKl4Sx5fzVMIZENUDUnkQkuW_lcn" alt="Others" style="width: 600px; height: 400px; object-fit: cover; border-radius: 8px;">
+</div>
+
+<div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 30px;">
+  <img src="https://lh3.googleusercontent.com/d/1y09jeNE7DTuOey1M5kkDWp2Cljo-8wgG" alt="Collection" style="width: 600px; height: 400px; object-fit: cover; border-radius: 8px;">
+  <img src="https://lh3.googleusercontent.com/d/1MUuRm0zCiVnOd_OhBvwYK_UFcMqayCgz" alt="Others" style="width: 600px; height: 400px; object-fit: cover; border-radius: 8px;">
+</div>
+
+<div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 30px;">
+  <img src="https://lh3.googleusercontent.com/d/1sSmYAQnQJSklWwqz3gc0qKEFTgHJFBTG" alt="Collection" style="width: 600px; height: 400px; object-fit: cover; border-radius: 8px;">
+  <img src="https://lh3.googleusercontent.com/d/1iJnuJ2OsOp9rwmS1wbuZpCOsSCPzpTXR" alt="Others" style="width: 600px; height: 300px; object-fit: cover; border-radius: 8px;">
+</div>
+
